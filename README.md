@@ -26,5 +26,7 @@ Compiling, Training, and Evaluating the Model
   * What steps did you take to try and increase model performance?
     - Aside from increasing the neurons, experimented with changing the 'activation', removing columns one by one.
 
+### Summary:
 
-### Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+  * Office Hours Monday at 1830.
+  * Recommendations
