@@ -18,8 +18,13 @@ Data Preprocessing
 
 Compiling, Training, and Evaluating the Model
   * How many neurons, layers, and activation functions did you select for your neural network model, and why?
+    - Starting out with 80 neurons in the first layer and 30 in the second.
+    - During optimization, upped it to 100 and 50.
   * Were you able to achieve the target model performance?
+    - Initially achieved ~ 72%
+    - Subsequent attempts did not achieve much of an increase.
   * What steps did you take to try and increase model performance?
+    - Aside from increasing the neurons, experimented with changing the 'activation', removing columns one by one.
 
 
 ### Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
