@@ -28,5 +28,10 @@ Compiling, Training, and Evaluating the Model
 
 ### Summary:
 
-  * Office Hours Monday at 1830.
+  * Removing columns one at a time to see if the model improved is a tedious process and could be improved.
+  * Similarly, using different activations without knowing the math behind them is just trial and error.
+  * No one column of data seemed to make a great difference in the outcomes.
+  
   * Recommendations
+    - Figure out a way to see which columns have the greatest influence on the model.
+    - Check other similar studies about credit risk and see what neural networks were used to make predictions.
